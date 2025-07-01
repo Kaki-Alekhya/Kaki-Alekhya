@@ -7,7 +7,7 @@
 
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://github.com/Kaki-Alekhya/Alekhya-Kaki/blob/main/download.svg" />
+  <img src="https://github.com/Kaki-Alekhya/Kaki-Alekhya/blob/main/download.svg" />
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
 <!-- Profile View Counter -->
