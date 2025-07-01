@@ -117,9 +117,7 @@
 ### 🐍 My GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manibabu-dnv/manibabu-dnv/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manibabu-dnv/manibabu-dnv/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/manibabu-dnv/manibabu-dnv/output/github-snake.svg" />
+  ![snake gif](https://github.com/Kaki-Alekhya/Kaki-Alekhya/blob/output/github-snake-dark.svg)
 </picture>
 
 ---
