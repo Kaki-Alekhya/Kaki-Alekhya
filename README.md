@@ -22,7 +22,7 @@
     <td width="60%" valign="top">
       <h3>🚀 Who Am I?</h3>
       <ul>
-        <li> My recent project was <a href="https://github.com/Kaki-Alekhya/Alekhya-Kaki">Alekhya Kaki-Portfolio</a>🔭</li>
+        <li> My recent project was <a href="https://github.com/Kaki-Alekhya/Kaki-Alekhya">Alekhya Kaki-Portfolio</a>🔭</li>
       <li> I’m currently learning <b> SpringBoot, Advanced DSA ,Kotlin🌱</b></li>
       <li> I’m looking to collaborate with <b> Entrepreneurs,Java Developers & Data Analysits </b></li>
          <li> View my Résumé: <a href="https://drive.google.com/file/d/19S9HN29VYV3x6fFNEaQvhLiFwdjlPsae/view?usp=sharing"> Get it from here</a>📄</li>
