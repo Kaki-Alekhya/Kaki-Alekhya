@@ -25,7 +25,7 @@
         <li> My recent project was <a href="https://github.com/Kaki-Alekhya/Kaki-Alekhya">Alekhya Kaki-Portfolio</a>🔭</li>
       <li> I’m currently learning <b> SpringBoot, Advanced DSA ,Kotlin🌱</b></li>
       <li> I’m looking to collaborate with <b> Entrepreneurs,Java Developers & Data Analysits </b></li>
-         <li> View my Résumé: <a href="https://drive.google.com/file/d/19S9HN29VYV3x6fFNEaQvhLiFwdjlPsae/view?usp=sharing"> Get it from here</a>📄</li>
+         <li> View my Résumé: <a href="https://drive.google.com/file/d/1bzsHQRvEZmgcSHnqXU5LCJUe8P6860Mu/view?usp=sharing"> Get it from here</a>📄</li>
       <li> All of my projects are available at <a href="https://github.com/Kaki-Alekhya">GitHub</a>👩‍💻</li>
        <li>Explore my coding contributions on <a href="https://leetcode.com/u/alekhya_kaki">LeetCode</a> ⌨</li>
       <li> Reach me at <a href="mailto:alekhyaa.k77@gmail.com">alekhyaa.k77@gmail.com</a>📫</li>
