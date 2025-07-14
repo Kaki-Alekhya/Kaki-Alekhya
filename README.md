@@ -118,7 +118,7 @@
 ### 🐍 My GitHub Contribution Snake
 
 
-  ![snake gif](https://github.com/Kaki-Alekhya/Kaki-Alekhya/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Kaki-Alekhya/Kaki-Alekhya/blob/output/github-snake.svg)
 
 
 ---
