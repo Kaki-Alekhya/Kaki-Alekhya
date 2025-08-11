@@ -23,8 +23,8 @@
       <h3>🚀 Who Am I?</h3>
       <ul>
         <li> My recent project was <a href="https://github.com/Kaki-Alekhya/Kaki-Alekhya">Alekhya Kaki-Portfolio</a>🔭</li>
-      <li> I’m currently learning <b> SpringBoot, Advanced DSA ,Kotlin🌱</b></li>
-      <li> I’m looking to collaborate with <b> Entrepreneurs,Java Developers & Data Analysits </b></li>
+      <li> I’m currently learning <b> Advanced DSA, Kotlin 🌱</b></li>
+      <li> I’m looking to collaborate with <b> Entrepreneurs,Java Developers & Data Analysist </b></li>
          <li> View my Résumé: <a href="https://drive.google.com/file/d/1bzsHQRvEZmgcSHnqXU5LCJUe8P6860Mu/view?usp=sharing"> Get it from here</a>📄</li>
       <li> All of my projects are available at <a href="https://github.com/Kaki-Alekhya">GitHub</a>👩‍💻</li>
        <li>Explore my coding contributions on <a href="https://leetcode.com/u/alekhya_kaki">LeetCode</a> ⌨</li>
@@ -93,8 +93,10 @@
 
 | ⭐ Project | 🚀 Description | ⚙️ Tech Stack |
 |-------------|----------------|---------------|
-| 🎮 [Rock Paper Scissor Game](https://github.com/Kaki-Alekhya/rock_paper_scissor) | Gamw with random choice of computer | JavaScript,HTML,CSS |
+| 🎮 [Rock Paper Scissor Game](https://github.com/Kaki-Alekhya/rock_paper_scissor) | Game with random choice of computer | JavaScript,HTML,CSS |
 | 📊 [Data Analysis](https://github.com/Kaki-Alekhya/Airlines-project) | Exploring Insights From Synthetic Airline Data Analysis using Qlik |Qlik|
+| 📊 [Hospital Management](https://github.com/Kaki-Alekhya/Hospital_Management) | Java-based desktop application for managing hospital operations |Java, MySQL, Swing|
+
 
 
 </div>
