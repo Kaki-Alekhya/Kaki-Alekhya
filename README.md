@@ -24,7 +24,7 @@
       <ul>
         <li> My recent project was <a href="https://github.com/Kaki-Alekhya/Hospital_Management">Java Project</a>🔭</li>
       <li> I’m currently learning <b> Advanced DSA, Kotlin 🌱</b></li>
-      <li> I’m looking to collaborate with <b> Entrepreneurs,Java Developers & Data Analysist </b></li>
+      <li> I’m looking to collaborate with <b> Entrepreneurs,Java Developers & Data Analyst </b></li>
          <li> View my Résumé: <a href="https://drive.google.com/file/d/1bzsHQRvEZmgcSHnqXU5LCJUe8P6860Mu/view?usp=sharing"> Get it from here</a>📄</li>
       <li> All of my projects are available at <a href="https://github.com/Kaki-Alekhya">GitHub</a>👩‍💻</li>
        <li>Explore my coding contributions on <a href="https://leetcode.com/u/alekhya_kaki">LeetCode</a> ⌨</li>
