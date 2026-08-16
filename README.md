@@ -52,7 +52,7 @@
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
   <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
   <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
-   <a href="https://en.wikipedia.org/wiki/React" target="_blank"><img src="https://skillicons.dev/icons?i=React" /></a>
+  <a href="https://en.wikipedia.org/wiki/React" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
   
  
   
