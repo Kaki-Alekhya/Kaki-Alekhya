@@ -52,6 +52,8 @@
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
   <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
   <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+   <a href="https://en.wikipedia.org/wiki/React" target="_blank"><img src="https://skillicons.dev/icons?i=React" /></a>
+  
  
   
 </p>
@@ -96,6 +98,7 @@
 | 🎮 [Rock Paper Scissor Game](https://github.com/Kaki-Alekhya/rock_paper_scissor) | Game with random choice of computer | JavaScript,HTML,CSS |
 | 📊 [Data Analysis](https://github.com/Kaki-Alekhya/Airlines-project) | Exploring Insights From Synthetic Airline Data Analysis using Qlik |Qlik|
 | 📊 [Hospital Management](https://github.com/Kaki-Alekhya/Hospital_Management) | Java-based desktop application for managing hospital operations |Java, MySQL, Swing|
+| 📊 [Certification Management](https://github.com/Kaki-Alekhya/certifyPro) | Java-based desktop application for Exam and certification |Java, springBoot, React |
 
 
 
