@@ -77,17 +77,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaki-Alekhya&theme=gruvbox&column=7&margin-w=15&title=Commits,Repositories,Experience,Stars,Followers,PullRequest,Reviews" />
-</p>
-
-
-
-
-
----
 
 ### 🚀 Featured Projects
 
